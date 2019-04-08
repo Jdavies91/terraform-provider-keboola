@@ -1,0 +1,14 @@
+*Things to do.
+
+Create a genertic table creation for all components
+
+
+
+*Current Components that can upload and have credentials put in place but no Table creation yet.
+
+-Aws Redshift Writer
+-Aws S3 Bucket Writer
+-Dropbox writer
+-Google Drive Extractor
+-Sql Server Writer
+-Tableu writer
